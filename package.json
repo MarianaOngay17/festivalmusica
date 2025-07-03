@@ -1,0 +1,22 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto Curso Desarrollo Web: Festival Música",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianaOngay17/festivalmusica.git"
+  },
+  "author": "Mariana Ongay Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianaOngay17/festivalmusica/issues"
+  },
+  "homepage": "https://github.com/MarianaOngay17/festivalmusica#readme",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
